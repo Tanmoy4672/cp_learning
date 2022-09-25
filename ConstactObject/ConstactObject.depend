@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1657125290 source:d:\c++ workspace\constactobject\main.cpp
+	<iostream>
+	"myclassdemo.h"
+
+1657125448 d:\c++ workspace\constactobject\myclassdemo.h
+
+1657125458 source:d:\c++ workspace\constactobject\myclassdemo.cpp
+	"myclassdemo.h"
+	<iostream>
+
